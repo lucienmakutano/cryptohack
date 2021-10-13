@@ -2,7 +2,6 @@
 
 import sys
 import base64
-import re
 # import this
 
 if sys.version_info.major == 2:
